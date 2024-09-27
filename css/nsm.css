@@ -11,15 +11,22 @@ body{
 
 .header{
     color: #0c3c3c;
+    z-index: 100;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
 }
 
 .img{
-    
+    background-color: transparent;
 }
 
 .imgRounded{
     border-radius: 45;
     border: 3px solid #ffffff;
+    height: 200px;
+    width: auto;
 }
 
 .bodyText{
