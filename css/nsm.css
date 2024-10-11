@@ -44,6 +44,7 @@ body{
     border: 2px solid #000000;
 }
 .keywords{
+    border-top: 1px dotted #363636;
     font-size: 0.3em;
     color: #6c6c6c;
 }
