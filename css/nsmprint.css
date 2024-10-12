@@ -26,6 +26,17 @@ body{
     height: 200px;
     width: auto;
 }
+.articleImage{
+    display: block;
+    max-height: 100%;
+    max-width: 100%;
+    border: 2px solid #000000;
+}
+.keywords{
+    border-top: 1px dotted #363636;
+    font-size: 0.6em;
+    color: #6c6c6c;
+}
 
 .imgFloatLeft{
     float: left;
