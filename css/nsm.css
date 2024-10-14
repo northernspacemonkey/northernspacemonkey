@@ -43,6 +43,13 @@ body{
     max-width: 100%;
     border: 2px solid #000000;
 }
+
+.articleDiv{
+    text-align: justify;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
 .keywords{
     border-top: 1px dotted #363636;
     font-size: 0.6em;
