@@ -50,6 +50,10 @@ body{
     padding-right: 40px;
 }
 
+.centerDiv{
+    text-align: center;
+}
+
 .keywords{
     border-top: 1px dotted #363636;
     font-size: 0.6em;
