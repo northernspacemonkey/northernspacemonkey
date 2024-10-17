@@ -134,6 +134,10 @@ body{
     font-size: 2em;
 }
 
+.clearSpan{
+    clear: both;
+    height: 30px;
+}
 
 .footer{
     position: absolute;
@@ -146,4 +150,5 @@ body{
     margin-top: 3px;
     text-align: center;
     color: #0c3c3c;
+    background-color: #ffffff;
 }
