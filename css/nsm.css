@@ -140,7 +140,7 @@ body{
 }
 
 .footer{
-    position: absolute;
+    position: fixed;
     display: block;
     bottom: 0px;
     left: 0px;
@@ -151,4 +151,5 @@ body{
     text-align: center;
     color: #0c3c3c;
     background-color: #ffffff;
+    z-index: 10;
 }
