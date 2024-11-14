@@ -20,6 +20,12 @@ body{
     font-weight: 700;
 }
 
+.imgLogo{
+    overflow: hidden;
+    height: 200px;
+    width: auto;
+    text-align: center;
+}
 .imgRounded{
     border-radius: 45rch;
     border: 6px solid #000000;
