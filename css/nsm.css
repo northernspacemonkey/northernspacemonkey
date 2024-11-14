@@ -17,6 +17,11 @@ body{
 .img{
     background-color: transparent;
 }
+.imgLogo{
+    overflow: hidden;
+    height: 200px;
+    width: auto;
+}
 
 .imgRounded{
     border-radius: 50%;
