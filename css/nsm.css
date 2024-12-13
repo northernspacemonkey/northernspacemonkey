@@ -58,6 +58,7 @@ body{
 .centerDiv{
     text-align: center;
     width: 100%;
+    display: block;
 }
 
 .keywords{
@@ -155,6 +156,7 @@ body{
     padding: 10px;
     border: 2px solid #093939;
     width: 200px;
+    text-align: center;
     text-decoration: none;
 }
 
@@ -169,6 +171,7 @@ body{
     padding: 10px;
     border: 2px solid #093939;
     width: 100px;
+    text-align: center;
     text-decoration: none;
 }
 
