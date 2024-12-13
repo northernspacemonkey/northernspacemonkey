@@ -153,7 +153,23 @@ body{
     font-weight: 300;
     font-style: normal;
     padding: 10px;
-    border: 2px solid #093939
+    border: 2px solid #093939;
+    width: 200px;
+    text-decoration: none;
+}
+
+.morebtn{
+    display: block;
+    background-color: #0c3c3c;
+    color: #ffffff;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    padding: 10px;
+    border: 2px solid #093939;
+    width: 100px;
+    text-decoration: none;
 }
 
 .footer{
