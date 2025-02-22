@@ -68,4 +68,16 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
+    <url>
+        <loc>https://northernspacemonkey.co.uk/articles/oberonFebruary2025.htm</loc>
+        <lastmod>2025-02-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://northernspacemonkey.co.uk/articles/declassifiedFebruary2025.htm</loc>
+        <lastmod>2025-02-22</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>
