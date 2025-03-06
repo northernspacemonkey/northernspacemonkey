@@ -80,4 +80,10 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
+    <url>
+        <loc>https://northernspacemonkey.co.uk/articles/voyagerMarch2025.htm</loc>
+        <lastmod>2025-03-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>
