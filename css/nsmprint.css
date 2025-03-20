@@ -19,6 +19,16 @@ body{
     font-size: 2em;
     font-weight: 700;
 }
+.siteHeader{
+    font-family: "Boldonse", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 4em;   
+}
+.strapline{
+    font-style: italic;
+    color: #363636;
+}
 
 .imgLogo{
     overflow: hidden;
