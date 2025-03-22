@@ -9,8 +9,6 @@ body{
     background-color: #ffffff;
 }
 
-
-
 .strapline{
     font-style: italic;
     color: #363636;
@@ -86,10 +84,6 @@ a.hover{
     color: #3c3c3c;
 }
 
-.bodyText{
-    color: #000000;
-    padding-left: 220px;
-}
 .bodyText h1{
     font-size: 2em;
     font-weight: 700;
@@ -149,20 +143,22 @@ a.hover{
 
 
 /* Smaller Screen Sizes */
-@media only screen and  (max-width:641px)  { 
+@media only screen and  (max-width:1171px)  { 
     .header{
-        color: #4d88ca;
         display: block;
         width: 100%;
+        text-align: center;
     }
     .siteHeader{
+        display: block;
         font-family: "Boldonse", system-ui;
         font-weight: 400;
         font-style: normal;
-        font-size:12em !important;
+        font-size:4em !important;
         color: #000000;
     }
     .navigation{
+        display: block;
         height: auto;
         width: 100%;
         padding-left: 10px;
@@ -208,7 +204,9 @@ a.hover{
         padding-top: 20px;
         border-top: 1px #3c3c3c dashed;
     }
-
+    .bodyText{
+        color: #000000;
+    }
     .footer{
         display: block;
         height: 30px;
@@ -222,9 +220,8 @@ a.hover{
 }
 
 /* Larger Screen Sizes */
-@media only screen and  (min-width:961px)  { 
+@media only screen and  (min-width:1171px)  { 
     .header{
-        color: #4d88ca;
         float: left;
     }
     .siteHeader{
@@ -285,7 +282,10 @@ a.hover{
         padding-top: 20px;
         border-top: 1px #3c3c3c dashed;
     }
-
+    .bodyText{
+        color: #000000;
+        padding-left: 220px;
+    }
     .footer{
         position: fixed;
         display: block;
