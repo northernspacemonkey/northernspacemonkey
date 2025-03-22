@@ -95,7 +95,6 @@ a.hover{
     font-weight: 400;
 }
 
-
 .columnDiv h4{
     color: #0c3c3c;
 }
@@ -140,8 +139,6 @@ a.hover{
     text-decoration: none;
 }
 
-
-
 /* Smaller Screen Sizes */
 @media only screen and  (max-width:1171px)  { 
     .header{
@@ -161,7 +158,8 @@ a.hover{
         display: block;
         height: auto;
         width: 100%;
-        padding-left: 10px;
+        left: 0;
+        right: 0;
     }
     .navigation ul{
         margin-left: 0;
