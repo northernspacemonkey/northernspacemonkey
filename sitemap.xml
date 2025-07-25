@@ -176,4 +176,10 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
+    <url>
+        <loc>https://northernspacemonkey.co.uk/articles/2025/junoMissionJuly2025.htm</loc>
+        <lastmod>2025-25-07</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>
