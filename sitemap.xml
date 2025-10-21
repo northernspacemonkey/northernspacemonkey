@@ -218,4 +218,16 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
+    <url>
+        <loc>https://northernspacemonkey.co.uk/articles/2025/BritishSpaceHistoryOctober2025.htm</loc>
+        <lastmod>2025-10-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://northernspacemonkey.co.uk/articles/2025/debrisProbablyFromChinaOctober2025.htm</loc>
+        <lastmod>2025-10-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>
